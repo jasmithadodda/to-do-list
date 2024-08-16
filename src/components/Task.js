@@ -17,7 +17,7 @@ const Task = ({ task }) => {
         checked={task.completed}
         onChange={() => dispatch(toggleTaskCompletion(task.id))}
       />
-       {isEditing ? (
+       (
         <div className="edit-form">
           <input
             type="text"
@@ -30,16 +30,13 @@ const Task = ({ task }) => {
             onChange={(e) => setDescription(e.target.value)}
             placeholder="Description"
           />
-          <div className="button-group edit-form-buttons">
-            <button onClick={handleUpdate} className="save-button">Save</button>
-            <button onClick={() => setIsEditing(false)} className="cancel-button">Cancel</button>
-          </div>
+          
         </div>
       ) : (
         <span className="task-text" style={{ textDecoration: task.completed ? 'line-through' : 'none' }}>
           {task.title}: {task.description}
         </span>
-    )}
+    )
     </li>
   );
 };
