@@ -44,3 +44,66 @@ button {
 button:hover {
   opacity: 0.9;
 }
+
+/* Specific Button Styles */
+.edit-button {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.delete-button {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.save-button {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.cancel-button {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.add-task-button {
+  background-color: #007bff; /* Blue color for the Add Task button */
+  color: #fff;
+}
+
+/* Input and Textarea Styles */
+.task-input, .task-textarea {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.task-input {
+  margin-bottom: 10px;
+}
+
+.task-textarea {
+  height: 80px;
+}
+
+/* Spacing Between Buttons */
+.button-group {
+  display: flex;
+  gap: 10px; /* Adjust the gap as needed */
+}
+
+.button-spacing {
+  margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.button-spacing:last-child {
+  margin-right: 0; /* Remove margin on the last button */
+}
+
+/* Edit Form Buttons */
+.edit-form-buttons {
+  display: flex;
+  gap: 10px; /* Adjust the gap between Save and Cancel buttons */
+}
