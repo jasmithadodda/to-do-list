@@ -45,26 +45,36 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+OUTPUT SCREENS :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+![image](https://github.com/user-attachments/assets/40ea8525-533c-4e2b-9cbe-7a2e893663ce)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![image](https://github.com/user-attachments/assets/9d14e42d-4e0c-42b6-855d-c7475e089bb9)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+![image](https://github.com/user-attachments/assets/42b7b0b2-4527-4991-8f3d-8caa69865589)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/user-attachments/assets/b3ad75b2-2656-4ec9-9b9a-4e681922079b)
+
+
+
+![image](https://github.com/user-attachments/assets/88436507-9453-495b-b541-ee54a40c18bd)
+
+
+
+![image](https://github.com/user-attachments/assets/43e4b200-4d8e-4c7d-a900-6141657b620a)
+
+
+
+
+
+
+
+
+
